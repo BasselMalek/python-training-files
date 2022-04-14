@@ -1,0 +1,2 @@
+fav="python "
+print(fav)
